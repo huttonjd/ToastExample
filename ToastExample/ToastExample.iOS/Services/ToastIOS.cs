@@ -30,7 +30,7 @@ namespace ToastExample.iOS.Services
         // Toast size
         int _margin = 30;
         int _height = 40;
-        int _width = 200;//150;
+        int _width = 200; // orginally was 150;
 
         NSTimer _timer = null;
 
