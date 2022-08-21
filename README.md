@@ -1,12 +1,12 @@
 # Xamarin Toast Example
-This is an example of a simple Xamarin Toast for Android and iOS.
+This is an example of a simple Xamarin Toast for _Android_ and _iOS_.
 
-Android has Toast built-in, iOS we have to add code to iOS project to do the same function.
+_Android_ has __Toast__ built-in. _iOS_ we have to add code to _iOS_ project to do the same function.
 
-It uses an interface service called IToast that its corresponding Dependency Service implementation is in Android and iOS.
+It uses an interface service called __IToast__ that its corresponding Dependency Service implementation is in Android and iOS.
 
 NOTE: Got most of the code from 
-<a target="_blank" href="/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/DependencyServiceToastSample">LeoAndo's DependencyServiceToastSample</a>
+<a target="_blank" href="//github.com/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/DependencyServiceToastSample">LeoAndo's DependencyServiceToastSample</a>
 
 ## What are the items that make this work
 
