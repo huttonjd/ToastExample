@@ -6,7 +6,7 @@ Android has Toast built-in, iOS we have to add code to iOS project to do the sam
 It uses an interface service called IToast that its corresponding Dependency Service implementation is in Android and iOS.
 
 NOTE: Got most of the code from 
-<a target="_blank" href="//github/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/DependencyServiceToastSample">LeoAndo's DependencyServiceToastSample</a>
+<a target="_blank" href="//github.com/LeoAndo/xamarin-forms-toast-snackbar-samples/tree/main/DependencyServiceToastSample">LeoAndo's DependencyServiceToastSample</a>
 
 ## What are the items that make this work
 
